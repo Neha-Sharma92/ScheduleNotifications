@@ -6,7 +6,7 @@ source activate smartfit
 pip install -r requirements.txt
 
 # Clone repository for human parsing
-git clone https://github.com/RohanBhandari/LIP_JPPNet.git ./human_parsing/LIP_JPPNet/
+git clone https://github.com/Engineering-Course/LIP_JPPNet ./human_parsing/LIP_JPPNet/
 mkdir ./human_parsing/LIP_JPPNet/checkpoint/
 cd ./human_parsing/LIP_JPPNet/checkpoint/
 printf "\nDownloading human parsing model. This may take a few minutes.\n\n"
@@ -15,7 +15,7 @@ unzip human_parsing_model.zip
 cd ../../..
 
 # Clone repository for pose estimation
-git clone https://github.com/RohanBhandari/keras_Realtime_Multi-Person_Pose_Estimation.git ./pose_estimation/keras_Realtime_MultiPerson_Pose_Estimation
+git clone https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation ./pose_estimation/keras_Realtime_MultiPerson_Pose_Estimation
 printf "\nDownloading pose estimation model. This may take a few minutes.\n\n"
 mkdir pose_estimation/keras_Realtime_MultiPerson_Pose_Estimation/model/keras/
 cd pose_estimation/keras_Realtime_MultiPerson_Pose_Estimation/model/keras/
@@ -23,7 +23,7 @@ curl -L -o model.h5 https://www.dropbox.com/s/llpxd14is7gyj0z/model.h5
 cd ../../../..
 
 # Clone repository for try-on
-git clone https://github.com/RohanBhandari/VITON.git ./try-on/VITON/
+git https://github.com/xthan/VITON ./try-on/VITON/
 cd try-on/VITON/
 git checkout f8427292e653df9ecb09a1413cfc4e0575a34469 # Get specific commit of repo
 cd model/
