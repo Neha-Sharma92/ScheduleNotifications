@@ -7,9 +7,7 @@
 </p>
 
 Presentation:
-<p float="left">
-<iframe height="375" width="600" src="Virtual_Dressing_Room.pptx"></iframe>
-</p>
+Power point Presentation can be found in the project nby name: Virtual_Dressing_Room.pptx
 
 ## Important Note
 
