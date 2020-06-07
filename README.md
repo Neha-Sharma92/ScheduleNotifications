@@ -6,7 +6,10 @@
   <img src="output/example_output.png" width="256"/> 
 </p>
 
-
+Presentation:
+<p float="left">
+  <img src="Virtual_Dressing_Room.pptx" width="256" hspace="20"/>
+</p>
 
 ## Important Note
 
