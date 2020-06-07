@@ -7,7 +7,7 @@
 </p>
 
 Presentation:
-Power point Presentation can be found in the project nby name: Virtual_Dressing_Room.pptx
+Power point Presentation can be found in the project by name: Virtual_Dressing_Room.pptx
 
 ## Important Note
 
