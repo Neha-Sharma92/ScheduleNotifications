@@ -8,7 +8,7 @@
 
 Presentation:
 <p float="left">
-  <img src="Virtual_Dressing_Room.pptx" width="256" hspace="20"/>
+<iframe height="375" width="600" src="Virtual_Dressing_Room.pptx"></iframe>
 </p>
 
 ## Important Note
